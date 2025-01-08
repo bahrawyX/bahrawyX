@@ -24,3 +24,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahrawyx&show_icons=true&locale=en&layout=compact" alt="bahrawyx" /></p>
 ****
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
