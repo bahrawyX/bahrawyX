@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman El-Bahrawy</h1>
 <h3 align="center">A passionate Software engineer From Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahrawyx" alt="bahrawyx" /></a> </p>
-
 - 🔭 I’m currently working at **HUAWEI AS A CLOUD ENGINEER**
 
 - 🌱 I’m currently learning **DEVOPS**
@@ -102,7 +100,9 @@ I am Bahrawy, a student and Cloud  Engineer with a passion for software developm
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
-  
+    <a>
+     <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
@@ -129,6 +129,9 @@ I am Bahrawy, a student and Cloud  Engineer with a passion for software developm
   <a href="https://azure.microsoft.com/" target="_blank">
     <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
   </a> 
+  <a>
+   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
   
 </p>
 
@@ -145,6 +148,14 @@ I am Bahrawy, a student and Cloud  Engineer with a passion for software developm
   <a href="https://www.docker.com/" target="_blank"> 
    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
   </a>   
+ <a>
+   <img src="https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" />
+  
+ </a>
+ <a>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> 
+  
+ </a>
   
   <a href="https://kubernetes.io/" target="_blank">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
@@ -297,7 +308,4 @@ I am Bahrawy, a student and Cloud  Engineer with a passion for software developm
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
